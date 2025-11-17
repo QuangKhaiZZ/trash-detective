@@ -1,0 +1,6 @@
+opencv-python
+flask
+folium
+numpy
+scikit-image
+ultralytics
